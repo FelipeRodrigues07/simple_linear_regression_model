@@ -1,7 +1,7 @@
 {
     "_meta": {
         "hash": {
-            "sha256": "3d68d8f46d120c31555eaa8bbfa91ed7c0735af832cf60fe3371b4520384ea18"
+            "sha256": "30bf736124a402344ce72fcd61019b8ff01776a19ae663113389f80894c4e235"
         },
         "pipfile-spec": 6,
         "requires": {
@@ -371,6 +371,13 @@
             "markers": "python_version >= '3.9'",
             "version": "==2.2.2"
         },
+        "pandas-flavor": {
+            "hashes": [
+                "sha256:9fb8735102dcb65dae7ee5cda12b393ca134a909ebcfc0262c5cdc1d79ba007f",
+                "sha256:a32c9e2e0da702579320cf2bd0078cee91807713bc9c65ff522f6b0289899893"
+            ],
+            "version": "==0.6.0"
+        },
         "patsy": {
             "hashes": [
                 "sha256:19056886fd8fa71863fa32f0eb090267f21fb74be00f19f5c70b2e9d76c883c6",
@@ -452,6 +459,14 @@
             ],
             "markers": "python_version >= '3.8'",
             "version": "==10.3.0"
+        },
+        "pingouin": {
+            "hashes": [
+                "sha256:c3b1fdd2794b0f1b1d96a0fdc5d6d7207ead51b04083ae6c1f302e9ca4c7e408",
+                "sha256:dd25ed2ab1ceb2f6b4dbc7d85c52df50b9cf661782fd792a30a7f51d0c025a07"
+            ],
+            "index": "pypi",
+            "version": "==0.5.4"
         },
         "pyparsing": {
             "hashes": [
@@ -584,6 +599,14 @@
             "markers": "python_version >= '3.9'",
             "version": "==0.14.2"
         },
+        "tabulate": {
+            "hashes": [
+                "sha256:0095b12bf5966de529c0feb1fa08671671b3368eec77d7ef7ab114be2c068b3c",
+                "sha256:024ca478df22e9340661486f85298cff5f6dcdba14f3813e8830015b9ed1948f"
+            ],
+            "markers": "python_version >= '3.7'",
+            "version": "==0.9.0"
+        },
         "threadpoolctl": {
             "hashes": [
                 "sha256:082433502dd922bf738de0d8bcc4fdcbf0979ff44c42bd40f5af8a282f6fa107",
@@ -599,6 +622,14 @@
             ],
             "markers": "python_version >= '2'",
             "version": "==2024.1"
+        },
+        "xarray": {
+            "hashes": [
+                "sha256:0b91e0bc4dc0296947947640fe31ec6e867ce258d2f7cbc10bedf4a6d68340c7",
+                "sha256:721a7394e8ec3d592b2d8ebe21eed074ac077dc1bb1bd777ce00e41700b4866c"
+            ],
+            "markers": "python_version >= '3.9'",
+            "version": "==2024.6.0"
         }
     },
     "develop": {}

@@ -10,6 +10,7 @@ seaborn = "*"
 scipy = "*"
 scikit-learn = "*"
 statsmodels = "*"
+pingouin = "*"
 
 [dev-packages]
 
