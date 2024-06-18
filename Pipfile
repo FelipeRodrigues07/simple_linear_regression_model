@@ -11,6 +11,8 @@ scipy = "*"
 scikit-learn = "*"
 statsmodels = "*"
 pingouin = "*"
+uvicorn = "*"
+fastapi = "*"
 
 [dev-packages]
 
